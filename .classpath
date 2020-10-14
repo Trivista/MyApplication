@@ -23,5 +23,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/DeBeer/Downloads/javax.ws.rs-api-2.0.jar/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DeBeer/Downloads/java-json.jar/java-json.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
